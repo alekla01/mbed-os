@@ -166,14 +166,16 @@ class IAR(mbedToolchain):
     def get_compile_options(self, defines, includes, for_asm=False):
         opts = ['-D%s' % d for d in defines]
         if for_asm:
-            config_macros = self.config.get_config_data_macros()
-            macros_cmd = ['"-D%s"' % d.replace('"', '') for d in config_macros]
+            #config_macros = self.config.get_config_data_macros()
+            #macros_cmd = ['"-D%s"' % d.replace('"', '') for d in config_macros]
+            #if self.RESPONSE_FILES:
+            #    via_file = self.make_option_file(
+            #        macros_cmd, "asm_macros_{}.xcl")
+            #    opts += ['-f', via_file]
+            #else:
+            #    opts += macros_cmd
             if self.RESPONSE_FILES:
-                via_file = self.make_option_file(
-                    macros_cmd, "asm_macros_{}.xcl")
-                opts += ['-f', via_file]
-            else:
-                opts += macros_cmd
+                opts += ['-f', self.get_inc_file(includes)]
             return opts
         else:
             if self.RESPONSE_FILES:
