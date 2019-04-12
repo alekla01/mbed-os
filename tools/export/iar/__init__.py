@@ -165,7 +165,7 @@ class IAR(Exporter):
         """ Build IAR project """
         # > IarBuild [project_path] -build [project_name]
         proj_file = project_name + ".ewp"
-        cmd = ["IarBuild", proj_file, '-build', project_name]
+        cmd = ["IarBuild", proj_file, '-build', project_name, '-log', 'ERROR']
 
         # IAR does not support a '0' option to automatically use all
         # available CPUs, so we use Python's multiprocessing library
