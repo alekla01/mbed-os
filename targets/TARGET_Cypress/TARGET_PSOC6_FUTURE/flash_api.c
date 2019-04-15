@@ -108,3 +108,4 @@ uint8_t flash_get_erase_value(const flash_t *obj)
 }
 
 #endif // DEVICE_FLASH
+asdfdsf
