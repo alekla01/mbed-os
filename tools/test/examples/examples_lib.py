@@ -324,16 +324,16 @@ def export_repos(config, ides, targets, examples):
                     else:
                         status("SUCCESS exporting")
                         status("Building")
-                        try:
-                            if EXPORTERS[ide].build(example_project_name, cleanup=False):
-                                status("FAILURE building")
-                                build_failures.append(example_name)
-                            else:
-                                status("SUCCESS building")
-                                successes.append(example_name)
-                        except TypeError:
-                            successes.append(example_name)
-                            build_skips.append(example_name)
+                        #try:
+                        #    if EXPORTERS[ide].build(example_project_name, cleanup=False):
+                        #        status("FAILURE building")
+                        #        build_failures.append(example_name)
+                        #    else:
+                        #        status("SUCCESS building")
+                        #        successes.append(example_name)
+                        #except TypeError:
+                        successes.append(example_name)
+                        build_skips.append(example_name)
                 os.chdir("..")
 
                 if len(build_failures+export_failures) > 0:
