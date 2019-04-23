@@ -282,7 +282,8 @@ class GNUARMEclipse(Exporter):
             '-application org.eclipse.cdt.managedbuilder.core.headlessbuild',
             '-data', tmp_folder,
             '-import', os.getcwd(),
-            '-cleanBuild', project_name
+            '-cleanBuild', project_name,
+            'eclipse.log.level', 'ERROR'
         ]
 
         p = Popen(' '.join(cmd), shell=True, stdout=PIPE, stderr=PIPE)
