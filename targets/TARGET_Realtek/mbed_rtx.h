@@ -1,4 +1,3 @@
-
 /* mbed Microcontroller Library
  * Copyright (c) 2013-2016 Realtek Semiconductor Corp.
  *
