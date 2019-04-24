@@ -160,5 +160,3 @@ uint32_t hal_crc_get_result(void)
 
 #endif //GPCRC_PRESENT
 #endif //DEVICE_CRC
-sasad
-sadfd
