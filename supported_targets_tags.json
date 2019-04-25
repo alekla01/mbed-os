@@ -1,0 +1,5164 @@
+{
+    "supported_targets_toolchains": {
+        "2": {
+            "DISCO_L053C8": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "WIO_BG96": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "EFM32PG12_STK3402": [
+                "GCC_ARM", 
+                "ARM", 
+                "uARM", 
+                "IAR"
+            ], 
+            "KW41Z": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "RBLAB_NRF51822": [
+                "ARM", 
+                "GCC_ARM"
+            ], 
+            "LPC1549": [
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "RZ_A1H": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "OC_MBUINO": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "ARM_MPS2_M0": [
+                "ARM"
+            ], 
+            "ARM_MPS2_M3": [
+                "ARM"
+            ], 
+            "ARM_MPS2_M4": [
+                "ARM"
+            ], 
+            "ARM_MPS2_M7": [
+                "ARM"
+            ], 
+            "K66F": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NRF51_DONGLE_LEGACY": [
+                "ARM", 
+                "GCC_ARM"
+            ], 
+            "FF_LPC546XX": [
+                "ARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "DISCO_F769NI": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_L496ZG_P": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "ARCH_BLE": [
+                "ARM", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F207ZG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "KL05Z": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NRF51_MICROBIT": [
+                "ARM", 
+                "GCC_ARM"
+            ], 
+            "LPC4337": [
+                "ARM"
+            ], 
+            "DISCO_F746NG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F334R8": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F411RE": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F413ZH": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NRF51_MICROBIT_B": [
+                "ARM", 
+                "GCC_ARM"
+            ], 
+            "ARCH_PRO": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "WIZWIKI_W7500P": [
+                "uARM", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MAX32625PICO": [
+                "GCC_ARM", 
+                "IAR", 
+                "ARM"
+            ], 
+            "NUCLEO_L433RC_P": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "DISCO_F303VC": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NRF51_DK": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "K20D50M": [
+                "GCC_ARM", 
+                "ARM", 
+                "IAR"
+            ], 
+            "VBLUNO51": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTM_MTCONNECT04S": [
+                "ARM", 
+                "GCC_ARM"
+            ], 
+            "RHOMBIO_L476DMW1K": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_L031K6": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "KL43Z": [
+                "GCC_ARM", 
+                "ARM", 
+                "IAR"
+            ], 
+            "K22F": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UNO_91H": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L432KC": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "ARCH_GPRS": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F303ZE": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "KL82Z": [
+                "GCC_ARM", 
+                "ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F401RE": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F303RE": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "MOTE_L152RC": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC11U24": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_L476VG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "UBLOX_C027": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NRF51822": [
+                "ARM", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F429ZI": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "KW24D": [
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "SEEED_TINY_BLE": [
+                "ARM", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F091RC": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "DISCO_F334C8": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "LPC546XX": [
+                "ARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "TEENSY3_1": [
+                "GCC_ARM", 
+                "ARM"
+            ], 
+            "SAMD21G18A": [
+                "GCC_ARM", 
+                "ARMC5", 
+                "uARM"
+            ], 
+            "STEVAL_3DP001V1": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "DISCO_L496AG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "TY51822R3": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F302R8": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "RBLAB_BLENANO": [
+                "ARM", 
+                "GCC_ARM"
+            ], 
+            "MAX32630FTHR": [
+                "GCC_ARM", 
+                "IAR", 
+                "ARM"
+            ], 
+            "ELMO_F411RE": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM"
+            ], 
+            "B96B_F446VE": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "SDT64B": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC1347": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC4088_DM": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L486RG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "SDT32620B": [
+                "GCC_ARM", 
+                "IAR", 
+                "ARM"
+            ], 
+            "ARM_CM3DS_MPS2": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC824": [
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTS_MDOT_F411RE": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "SAMD21J18A": [
+                "GCC_ARM", 
+                "ARMC5", 
+                "uARM"
+            ], 
+            "NUCLEO_F746ZG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_WB55RG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "SAMR21G18A": [
+                "GCC_ARM", 
+                "ARMC5", 
+                "uARM"
+            ], 
+            "NRF51_DONGLE": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "VK_RZ_A1H": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC11U68": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC11U35_401": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_F413ZH": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "SDT51822B": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F756ZG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "XADOW_M0": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L496ZG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "LPC11U37H_401": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_L152RE": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F439ZI": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "ARCH_MAX": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DELTA_DFCM_NNN40": [
+                "ARM", 
+                "GCC_ARM"
+            ], 
+            "K82F": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32LG_STK3600": [
+                "GCC_ARM", 
+                "ARM", 
+                "uARM", 
+                "IAR"
+            ], 
+            "RO359B": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "RAPIDIOT_KW41Z": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32GG11_STK3701": [
+                "GCC_ARM", 
+                "ARM", 
+                "uARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F070RB": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F410RB": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F072RB": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "MAX32600MBED": [
+                "GCC_ARM", 
+                "IAR", 
+                "ARM"
+            ], 
+            "MICRONFCBOARD": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM"
+            ], 
+            "MTS_DRAGONFLY_F411RE": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "WIZWIKI_W7500ECO": [
+                "uARM", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F446ZE": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "HEXIWEAR": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_F469NI": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "MTS_MDOT_F405RG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F446RE": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "DISCO_F429ZI": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "LPC1114": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F042K6": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "USENSE": [
+                "GCC_ARM", 
+                "ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F103RB": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "EFM32ZG_STK3200": [
+                "GCC_ARM", 
+                "uARM", 
+                "IAR"
+            ], 
+            "EFM32GG_STK3700": [
+                "GCC_ARM", 
+                "ARM", 
+                "uARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L476RG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "KL27Z": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MIMXRT1050_EVK": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_L072CZ_LRWAN1": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F030R8": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "TB_SENSE_1": [
+                "GCC_ARM", 
+                "ARM", 
+                "uARM", 
+                "IAR"
+            ], 
+            "WIO_3G": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUMAKER_PFM_M453": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F303K8": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "EFM32WG_STK3800": [
+                "GCC_ARM", 
+                "ARM", 
+                "uARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L053R8": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "TB_SENSE_12": [
+                "GCC_ARM", 
+                "ARM", 
+                "uARM", 
+                "IAR"
+            ], 
+            "K64F": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC11U35_501": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L011K4": [
+                "uARM"
+            ], 
+            "EFM32PG_STK3401": [
+                "GCC_ARM", 
+                "ARM", 
+                "uARM", 
+                "IAR"
+            ], 
+            "MTS_DRAGONFLY_L471QG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "MAX32625NEXPAQ": [
+                "GCC_ARM", 
+                "IAR", 
+                "ARM"
+            ], 
+            "NUCLEO_L073RZ": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "WALLBOT_BLE": [
+                "ARM", 
+                "GCC_ARM"
+            ], 
+            "HRM1017": [
+                "ARM", 
+                "GCC_ARM"
+            ], 
+            "UBRIDGE": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_H743ZI": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "LPC812": [
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "LPC4088": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "WIZWIKI_W7500": [
+                "uARM", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "SAKURAIO_EVB_01": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F767ZI": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "ARM_MPS2_M0P": [
+                "ARM"
+            ], 
+            "RDA5981X": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "KL46Z": [
+                "GCC_ARM", 
+                "ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L4R5ZI": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "EFM32HG_STK3400": [
+                "GCC_ARM", 
+                "uARM", 
+                "IAR"
+            ], 
+            "LPC54114": [
+                "ARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "DISCO_L475VG_IOT01A": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "MAX32620FTHR": [
+                "GCC_ARM", 
+                "IAR", 
+                "ARM"
+            ], 
+            "NCS36510": [
+                "GCC_ARM", 
+                "ARM", 
+                "IAR"
+            ], 
+            "MTB_MTS_DRAGONFLY": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F412ZG": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "NUCLEO_F031K6": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "KL25Z": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L4R5ZI_P": [
+                "ARM", 
+                "uARM", 
+                "IAR", 
+                "GCC_ARM"
+            ], 
+            "GR_LYCHEE": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MAX32625MBED": [
+                "GCC_ARM", 
+                "IAR", 
+                "ARM"
+            ], 
+            "ARM_IOTSS_BEID": [
+                "ARM"
+            ], 
+            "SSCI824": [
+                "uARM", 
+                "GCC_ARM"
+            ], 
+            "SDT32625B": [
+                "GCC_ARM", 
+                "IAR", 
+                "ARM"
+            ], 
+            "LPC1768": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC1769": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "RAPIDIOT_K64F": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_F407VG": [
+                "ARM", 
+                "uARM", 
+                "GCC_ARM", 
+                "IAR"
+            ]
+        }, 
+        "5": {
+            "MTB_RAK811": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "WIO_BG96": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32PG12_STK3402": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "KW41Z": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UHURU_RAVEN": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "RZ_A1H": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUMAKER_PFM_NUC472": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UBLOX_EVA_NINA": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "K66F": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "FF_LPC546XX": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_STM_S2LP": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_ADV_WISE_1510": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_LAIRD_BL600": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "CY8CPROTO_062_4343W": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F207ZG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "CY8CKIT_062_4343W": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_F746NG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32GG_STK3700": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F413ZH": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "ARCH_PRO": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UBLOX_C030_N211": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "WIZWIKI_W7500P": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UBLOX_C030_U201": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "CYW943012P6EVB_01": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "CY8CKIT_062_WIFI_BT_PSA": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L433RC_P": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_F303VC": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "VBLUNO52": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_ADV_WISE_1570": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_F407VG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_MURATA_WSM_BL241": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "SILICA_SENSOR_NODE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "RHOMBIO_L476DMW1K": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MAX32620FTHR": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "KL43Z": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "K22F": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UNO_91H": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F756ZG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "SDP_K1": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "GD32_E103VB": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F303ZE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC55S69_NS": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "KL82Z": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F401RE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F303RE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MOTE_L152RC": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "FVP_MPS2_M3": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "FVP_MPS2_M0": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_L476VG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "FVP_MPS2_M7": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "FVP_MPS2_M4": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UBLOX_C027": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F429ZI": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "KW24D": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUMAKER_PFM_M453": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F091RC": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "SDT52832B": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "TMPM3H6": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC546XX": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UBLOX_C030_R41XM": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "TMPM46B": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_L496AG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "TY51822R3": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MAX32600MBED": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_F769NI": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "GD32_F307VG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DELTA_DFBM_NQ620": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "TMPM066": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MAX32630FTHR": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EV_COG_AD4050LZ": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "B96B_F446VE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "SDT64B": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "XDOT_L151CC": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC4088_DM": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "FUTURE_SEQUANA": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L486RG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "CY8CKIT_062_WIFI_BT": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "SDT32620B": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "CYW943012P6EVB_01_M0": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L496ZG_P": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_LAIRD_BL652": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "GR_LYCHEE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UBLOX_C030_R412M": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "TT_M3HQ": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_LAIRD_BL654": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "GD32_F450ZI": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "ARM_CM3DS_MPS2": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTS_MDOT_F411RE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_UBLOX_ODIN_W2": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "FUTURE_SEQUANA_M0": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F746ZG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_WB55RG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NRF51_DONGLE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_MXCHIP_EMW3166": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MBED_CONNECT_ODIN": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "TT_M4G9": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "TMPM3HQ": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_ACONNO_ACN52832": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_F413ZH": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "SDT51822B": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L432KC": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NCS36510": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUMAKER_PFM_NANO130": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L496ZG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "RO359B": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MAX32625PICO": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L152RE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F439ZI": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_F469NI": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "FF1705_L151CC": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "K82F": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32LG_STK3600": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "VK_RZ_A1H": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "TMPM4G9": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F412ZG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32GG11_STK3701": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F070RB": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F410RB": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "RBLAB_BLENANO2": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F072RB": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NRF52840_DK": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTS_DRAGONFLY_F411RE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_MTS_XDOT": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "WIZWIKI_W7500ECO": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F446ZE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "HEXIWEAR": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F446RE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_F429ZI": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_ADV_WISE_1530": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_STM32_F439": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "USENSE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F103RB": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F411RE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_UBLOX_NINA_B1": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L476RG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUMAKER_PFM_M2351": [
+                "ARMC6", 
+                "ARM"
+            ], 
+            "MIMXRT1050_EVK": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_L072CZ_LRWAN1": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "TB_SENSE_1": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "WIO_3G": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_MTS_DRAGONFLY": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EV_COG_AD3029LZ": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUMAKER_IOT_M487": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "FUTURE_SEQUANA_PSA": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32WG_STK3800": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "TB_SENSE_12": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "K64F": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "CY8CKIT_062_WIFI_BT_M0": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32PG_STK3401": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTS_DRAGONFLY_L471QG": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MAX32625NEXPAQ": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUMAKER_PFM_M487": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UBLOX_C030_R410M": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_STM_L475": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UBRIDGE": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_H743ZI": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_MURATA_ABZ": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC4088": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NRF52_DK": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "WIZWIKI_W7500": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UBLOX_EVK_NINA_B1": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_F767ZI": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "CY8CKIT_062_BLE": [
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L073RZ": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "FVP_MPS2_M0P": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "RDA5981X": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "KL46Z": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L4R5ZI": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC54114": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "DISCO_L475VG_IOT01A": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "ARCH_MAX": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NRF51_DK": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "RAPIDIOT_KW41Z": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "KL25Z": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "NUCLEO_L4R5ZI_P": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "STEVAL_3DP001V1": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MAX32625MBED": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "SDT32625B": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC1768": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "LPC1769": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "UBLOX_EVK_ODIN_W2": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "RAPIDIOT_K64F": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "MTB_USI_WM_BN_BM_22": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ]
+        }
+    }, 
+    "supported_targets_ides": {
+        "WIO_BG96": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EFM32PG12_STK3402": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "KW41Z": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "UHURU_RAVEN": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "RZ_A1H": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MIMXRT1050_EVK": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUMAKER_PFM_NUC472": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "UBLOX_EVA_NINA": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "K66F": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "FF_LPC546XX": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_STM_S2LP": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_ADV_WISE_1510": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_LAIRD_BL600": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "CY8CPROTO_062_4343W": [
+            "eclipse_iar", 
+            "make_iar", 
+            "eclipse_armc5", 
+            "make_armc5", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "vscode_armc5", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F207ZG": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "CY8CKIT_062_4343W": [
+            "eclipse_iar", 
+            "make_iar", 
+            "eclipse_armc5", 
+            "make_armc5", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "vscode_armc5", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "DISCO_F746NG": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EFM32GG_STK3700": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F413ZH": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NRF52_DK": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "ARCH_PRO": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "mcuxpresso", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "UBLOX_C030_N211": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "WIZWIKI_W7500P": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "UBLOX_C030_U201": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "CYW943012P6EVB_01": [
+            "eclipse_iar", 
+            "make_iar", 
+            "eclipse_armc5", 
+            "make_armc5", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "vscode_armc5", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "TMPM066": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_L433RC_P": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "DISCO_F303VC": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "DISCO_F413ZH": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NRF51_DK": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_ADV_WISE_1570": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "DISCO_F407VG": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "SILICA_SENSOR_NODE": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "RHOMBIO_L476DMW1K": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MAX32620FTHR": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "KL43Z": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "K22F": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "UNO_91H": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_L432KC": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "LPC55S69_NS": [
+            "iar", 
+            "uvision6"
+        ], 
+        "GD32_E103VB": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUMAKER_PFM_M453": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "SDP_K1": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "KL82Z": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F401RE": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F303RE": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MOTE_L152RC": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "FVP_MPS2_M3": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "FVP_MPS2_M0": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "DISCO_L476VG": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "FVP_MPS2_M7": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "FVP_MPS2_M4": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "UBLOX_C027": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "mcuxpresso", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F429ZI": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "KW24D": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "eclipse_armc5", 
+            "make_armc5", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "vscode_armc5", 
+            "uvision5", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F303ZE": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F091RC": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F767ZI": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "SDT52832B": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "DISCO_L072CZ_LRWAN1": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "LPC546XX": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "mcuxpresso", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "UBLOX_C030_R41XM": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "TMPM46B": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F103RB": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "STEVAL_3DP001V1": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "DISCO_L496AG": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "TY51822R3": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MAX32600MBED": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "DISCO_F769NI": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "GD32_F307VG": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "DELTA_DFBM_NQ620": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "CY8CKIT_062_WIFI_BT_PSA": [
+            "eclipse_iar", 
+            "make_iar", 
+            "eclipse_armc5", 
+            "make_armc5", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "vscode_armc5", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MAX32630FTHR": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EV_COG_AD4050LZ": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "cces", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "B96B_F446VE": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "SDT64B": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "XDOT_L151CC": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "LPC4088_DM": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "mcuxpresso", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "FUTURE_SEQUANA": [
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_L486RG": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "CY8CKIT_062_WIFI_BT": [
+            "eclipse_iar", 
+            "make_iar", 
+            "eclipse_armc5", 
+            "make_armc5", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "vscode_armc5", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "SDT32620B": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "CYW943012P6EVB_01_M0": [
+            "eclipse_iar", 
+            "make_iar", 
+            "eclipse_armc5", 
+            "make_armc5", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "vscode_armc5", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_L496ZG_P": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_LAIRD_BL652": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "UBLOX_C030_R412M": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "TT_M3HQ": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_LAIRD_BL654": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "GD32_F450ZI": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "ARM_CM3DS_MPS2": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTS_MDOT_F411RE": [
+            "iar", 
+            "uvision6"
+        ], 
+        "MTB_UBLOX_ODIN_W2": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "FUTURE_SEQUANA_M0": [
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F746ZG": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_WB55RG": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NRF51_DONGLE": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_MXCHIP_EMW3166": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MBED_CONNECT_ODIN": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "TT_M4G9": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "TMPM3HQ": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_ACONNO_ACN52832": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "VBLUNO52": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "SDT51822B": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F756ZG": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUMAKER_PFM_NANO130": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_L496ZG": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "VK_RZ_A1H": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MAX32625PICO": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_L152RE": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "ARCH_MAX": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F439ZI": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "DISCO_F469NI": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "FF1705_L151CC": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "K82F": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EFM32LG_STK3600": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "RO359B": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "TMPM4G9": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "RAPIDIOT_KW41Z": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EFM32GG11_STK3701": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F070RB": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F410RB": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F072RB": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NRF52840_DK": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTS_DRAGONFLY_F411RE": [
+            "iar", 
+            "uvision6"
+        ], 
+        "MTB_MTS_XDOT": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "WIZWIKI_W7500ECO": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "RBLAB_BLENANO2": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "HEXIWEAR": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F446RE": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_ADV_WISE_1530": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_STM32_F439": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "USENSE": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_RAK811": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F411RE": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_UBLOX_NINA_B1": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_L476RG": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "K64F": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "mcuxpresso", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_MURATA_WSM_BL241": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "TMPM3H6": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "TB_SENSE_1": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "WIO_3G": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EV_COG_AD3029LZ": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "cces", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUMAKER_IOT_M487": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "FUTURE_SEQUANA_PSA": [
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EFM32WG_STK3800": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "TB_SENSE_12": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUMAKER_PFM_M2351": [
+            "make_armc6", 
+            "uvision6"
+        ], 
+        "CY8CKIT_062_WIFI_BT_M0": [
+            "eclipse_iar", 
+            "make_iar", 
+            "eclipse_armc5", 
+            "make_armc5", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "vscode_armc5", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EFM32PG_STK3401": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "DISCO_F429ZI": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MAX32625NEXPAQ": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUMAKER_PFM_M487": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "UBLOX_C030_R410M": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_STM_L475": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "UBRIDGE": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_H743ZI": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_MURATA_ABZ": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "LPC4088": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "mcuxpresso", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTS_DRAGONFLY_L471QG": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "WIZWIKI_W7500": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "UBLOX_EVK_NINA_B1": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_F446ZE": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "CY8CKIT_062_BLE": [
+            "eclipse_iar", 
+            "make_iar", 
+            "eclipse_armc5", 
+            "make_armc5", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "vscode_armc5", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_L073RZ": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "FVP_MPS2_M0P": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "RDA5981X": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "KL46Z": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_L4R5ZI": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "LPC54114": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "mcuxpresso", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "DISCO_L475VG_IOT01A": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NCS36510": [
+            "iar", 
+            "uvision6", 
+            "codeblocks"
+        ], 
+        "MTB_MTS_DRAGONFLY": [
+            "iar"
+        ], 
+        "NUCLEO_F412ZG": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "KL25Z": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "NUCLEO_L4R5ZI_P": [
+            "sw4stm32", 
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "GR_LYCHEE": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MAX32625MBED": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "SDT32625B": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "LPC1768": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "mcuxpresso", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "LPC1769": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "mcuxpresso", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "UBLOX_EVK_ODIN_W2": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "RAPIDIOT_K64F": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "MTB_USI_WM_BN_BM_22": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ]
+    }
+}

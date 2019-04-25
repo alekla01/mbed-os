@@ -1,0 +1,196 @@
+{
+    "supported_targets_toolchains": {
+        "2": {}, 
+        "5": {
+            "EFM32PG12_STK3402": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32LG_STK3600": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32WG_STK3800": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "TB_SENSE_12": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32GG11_STK3701": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "TB_SENSE_1": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32GG_STK3700": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ], 
+            "EFM32PG_STK3401": [
+                "ARMC6", 
+                "ARM", 
+                "GCC_ARM", 
+                "IAR"
+            ]
+        }
+    }, 
+    "supported_targets_ides": {
+        "EFM32PG12_STK3402": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EFM32LG_STK3600": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EFM32WG_STK3800": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "TB_SENSE_12": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EFM32GG11_STK3701": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "TB_SENSE_1": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EFM32GG_STK3700": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ], 
+        "EFM32PG_STK3401": [
+            "netbeans", 
+            "eclipse_iar", 
+            "make_iar", 
+            "make_armc6", 
+            "vscode_iar", 
+            "gnuarmeclipse", 
+            "vscode_gcc_arm", 
+            "embitz", 
+            "uvision6", 
+            "e2studio", 
+            "codeblocks", 
+            "make_gcc_arm", 
+            "qtcreator", 
+            "eclipse_gcc_arm", 
+            "cmake_gcc_arm"
+        ]
+    }
+}
